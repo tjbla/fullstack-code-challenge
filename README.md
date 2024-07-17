@@ -1,7 +1,7 @@
 ## Full Stack Code Challenge
 
 In this folder, you can find two repositories that implement the front-end and back-end for a cooking recipe book.
-Please, read the instructions in the README files of both repositories carefully and complete all the requirements. 
+Please, read the instructions in the README files of both repositories carefully and complete as many requirements as you can. 
 
 ### Where do I start?
 
